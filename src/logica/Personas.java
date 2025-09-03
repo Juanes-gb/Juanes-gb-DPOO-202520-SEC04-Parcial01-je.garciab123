@@ -10,6 +10,9 @@ public abstract class Personas {
         this.altura = altura;
         this.edad = edad;
 	}
+	
+	public Personas() {
+    }
     
 	public int getPeso() {
 		return peso;
