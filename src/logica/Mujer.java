@@ -1,6 +1,7 @@
 package logica;
 
 public class Mujer extends Personas {
+
 	public Mujer(int peso, double altura, int edad) {
 		this.peso = peso;
         this.altura = altura;
